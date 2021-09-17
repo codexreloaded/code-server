@@ -1,0 +1,27 @@
+
+*RABU 4 AGUSTUS 2021*
+
+git create = git checkout -b (nama_dev)
+
+(kalo dah ada create di skip aja)
+
+git branch = liat posisi branch
+
+git add -A = u/ menambahkan codingan kita
+
+git commit -m "commitan kita" / contoh : git commit -m "updatebaru"
+
+
+
+
+git pull origin production (wajib) 
+
+git push -u origin (nama_dev)
+
+git log = (melihat history)
+
+
+git clone -b (namabranch) (pastelink)
+
+
+

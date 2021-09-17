@@ -1,0 +1,17 @@
+
+======== Flowmap ===========
+1. public -> index.html (id=root)
+
+2. get element by id to src -> index.js (see root)
+
+3. render component : app -> App.js
+
+4. Edit ur project in App.js 
+
+5. Save on VSC -> Outomally without refresh on ur local web to see
+
+========= RUNNING ===========
+1. Open Terminal on VSC
+2. start server : npm start
+3. stop server : Ctrl + C
+4. Wait until start and go to local web browser

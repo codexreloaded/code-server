@@ -1,0 +1,28 @@
+5 AGUSTUS 2021
+
+New Addons
+FOLDER
+    > Model -> models (Revisi Aldy)
+    > VIEW -> views (Revisi Aldy)
+-init.py
+-manifest.py
+-top_name.xml -> menu.xml (Revisi Aldy)
+
+./odoo-bin -c /etc/odoo-server.conf
+(Odoo10)
+
+./odoo-bin -c /etc/odoo13.conf
+(Odoo 13)
+
+sudo gedit /etc/odoo-server.conf
+(Config Odoo)
+
+
+
+6 AGUSTUS 2021
+
+- Membuat Tree View Course
+
+9 AGUSTUS 2021
+./odoo-bin -c /etc/odoo-server.conf -d test -u academic
+./odoo-bin -c /etc/odoo-server.conf -d (database) -u (folder yang diedit)

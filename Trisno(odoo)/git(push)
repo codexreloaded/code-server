@@ -1,0 +1,24 @@
+
+
+**** 11 AGUSTUS 2021 *****
+
+1. Matiin odoo diterminal
+
+2. Cari Folder yang mau di push
+
+3. Open Terminal di folder yang mau dipush
+
+4. git checkout -b (nama_dev)
+
+5. git add -A
+
+6. git commit
+    git commit -m "commitan kita" / contoh : git commit -m "updatebaru"
+
+7. git pull
+    git pull origin production (wajib)
+
+8. git push
+    git push -u origin (nama_dev)
+
+9. check gitlab BRANCH

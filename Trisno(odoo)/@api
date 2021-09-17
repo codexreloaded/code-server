@@ -1,0 +1,12 @@
+
+@api.multi ====== untuk tombol
+
+@api.onchange ======= untuk menampilkan semua isi form dan bisa diubah , bisa ngubah kapan aja
+
+
+@api.depends ===== untuk perhitungan yang tidak mungkin diubah , ngubah nya harus dari field
+    = harus nambah compute di field
+
+order_line = relasi dari sales_order ke sales_order_line
+
+order_id = relasi dari sales_order_line ke sales_order

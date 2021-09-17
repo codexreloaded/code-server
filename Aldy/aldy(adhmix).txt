@@ -1,0 +1,15 @@
+Commit Development Branch :
+1. git status
+2. git add -A
+3. git commit -m "message commit"
+4. git pull origin master
+
+Make sure staging is up-to-date :
+5. git checkout staging
+6. git pull origin staging
+
+Merge staging with development branch : (posisi di branchstaging)
+7. git merge dev-branch-xxx
+
+Push development branch if no conflict :
+8. git push origin dev-branch-xxx
