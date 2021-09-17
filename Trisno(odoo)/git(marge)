@@ -1,0 +1,26 @@
+
+
+**** 11 AGUSTUS 2021 *****
+
+---------  MARGE INI DILAKUKAN JIKA MEMILIKI HAK AKSES  -----------
+
+
+1. Check real server 
+
+2. Check apa yang mau dirubah apakah sudah berubah atau belum? 
+    
+    *Jika belum lanjut step selanjutnya*
+
+3. Buka gitlab
+
+4. Klik branch
+
+5. Klik Marge Request
+
+6. Create Marge Request
+
+7. Marge
+
+8. Check real server apakah update sudah berubah atau belum.
+
+9. Jika belum berubah berarti ada yang salah dari kodingan.

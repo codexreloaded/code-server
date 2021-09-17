@@ -1,0 +1,44 @@
+
+*** 10 AGUSTUS 2021 ***
+
+1. Klik file di gitlab
+
+2. Repository - branch
+
+3. Copy clone di gitlab
+
+4. New Folder di laptop
+
+5. git clone (copy link clone)
+
+6. Buka terminal di folder baru
+
+7. git branch - ngeliat branch
+
+8. git checkout -b (nama_dev) -> dev tentuin sendiri
+
+9. git branch - ngeliat branch lagi
+
+10. Masuk ke folder odoo
+
+11. Open terminal
+
+12. Aktivin Odoo 10/13
+
+13. logout
+
+14. sudo gedit /etc/odoo-server.conf 
+
+15. Cari lokasi di folder saat buka sudo gedit
+
+16. Save trus close
+
+17. Aktivin Odoo lagi 10/13
+
+18. localhost (di google)
+
+19. Buat database
+
+20. Buka Modul -> Instal
+
+**** NONOO GANTENG ****
